@@ -1,0 +1,11 @@
+Vivado Simulator v2023.1
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+Running: D:/vivado/Vivado/2023.1/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -L xil_defaultlib -L uvm -L unisims_ver -L unimacro_ver -L secureip --snapshot tb_UART_behav xil_defaultlib.tb_UART xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+ERROR: [VRFC 10-3818] variable 'selectTx' is driven by invalid combination of procedural drivers [C:/Users/Msi/223Project/223Project.srcs/sources_1/new/SevenSegmentController.sv:44]
+WARNING: [VRFC 10-2921] 'selectTx' driven by this always_ff block should not be driven by any other process [C:/Users/Msi/223Project/223Project.srcs/sources_1/new/SevenSegmentController.sv:59]
+ERROR: [VRFC 10-3818] variable 'txIndex' is driven by invalid combination of procedural drivers [C:/Users/Msi/223Project/223Project.srcs/sources_1/new/SevenSegmentController.sv:45]
+ERROR: [XSIM 43-3322] Static elaboration of top level Verilog design unit(s) in library work failed.

@@ -1,0 +1,14 @@
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Msi/223Project/223Project.srcs/sources_1/new/HexTo7Segment.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module HexTo7Segment
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Msi/223Project/223Project.srcs/sources_1/new/RXBUF.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module RXBUF
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Msi/223Project/223Project.srcs/sources_1/new/SevenSegmentController.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module SevenSegmentController
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Msi/223Project/223Project.srcs/sources_1/new/TXBUF.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module TXBUF
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Msi/223Project/223Project.srcs/sources_1/new/UART.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module UART
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Msi/223Project/223Project.srcs/sources_1/new/baudClock.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module baudClock
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Msi/223Project/223Project.srcs/sim_1/new/tb_UART.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_UART

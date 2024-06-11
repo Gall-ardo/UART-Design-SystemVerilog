@@ -1,0 +1,12 @@
+0.7
+2020.2
+May  7 2023
+15:24:31
+C:/Users/Msi/223Project/223Project.sim/sim_1/behav/xsim/glbl.v,1683266558,verilog,,,,glbl,,uvm,,,,,,
+C:/Users/Msi/223Project/223Project.srcs/sim_1/new/tb_UART.sv,1714691681,systemVerilog,,,,tb_UART,,uvm,,,,,,
+C:/Users/Msi/223Project/223Project.srcs/sources_1/new/HexTo7Segment.sv,1714780235,systemVerilog,,C:/Users/Msi/223Project/223Project.srcs/sources_1/new/RXBUF.sv,,HexTo7Segment,,uvm,,,,,,
+C:/Users/Msi/223Project/223Project.srcs/sources_1/new/RXBUF.sv,1714780878,systemVerilog,,C:/Users/Msi/223Project/223Project.srcs/sources_1/new/SevenSegmentController.sv,,RXBUF,,uvm,,,,,,
+C:/Users/Msi/223Project/223Project.srcs/sources_1/new/SevenSegmentController.sv,1714780878,systemVerilog,,C:/Users/Msi/223Project/223Project.srcs/sources_1/new/TXBUF.sv,,SevenSegmentController,,uvm,,,,,,
+C:/Users/Msi/223Project/223Project.srcs/sources_1/new/TXBUF.sv,1714690943,systemVerilog,,C:/Users/Msi/223Project/223Project.srcs/sources_1/new/UART.sv,,TXBUF,,uvm,,,,,,
+C:/Users/Msi/223Project/223Project.srcs/sources_1/new/UART.sv,1714691101,systemVerilog,,C:/Users/Msi/223Project/223Project.srcs/sources_1/new/baudClock.sv,,UART,,uvm,,,,,,
+C:/Users/Msi/223Project/223Project.srcs/sources_1/new/baudClock.sv,1714689765,systemVerilog,,C:/Users/Msi/223Project/223Project.srcs/sim_1/new/tb_UART.sv,,baudClock,,uvm,,,,,,

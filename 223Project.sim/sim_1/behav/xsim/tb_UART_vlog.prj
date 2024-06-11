@@ -1,0 +1,15 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  \
+"../../../../223Project.srcs/sources_1/new/HexTo7Segment.sv" \
+"../../../../223Project.srcs/sources_1/new/RXBUF.sv" \
+"../../../../223Project.srcs/sources_1/new/SevenSegmentController.sv" \
+"../../../../223Project.srcs/sources_1/new/TXBUF.sv" \
+"../../../../223Project.srcs/sources_1/new/UART.sv" \
+"../../../../223Project.srcs/sources_1/new/baudClock.sv" \
+"../../../../223Project.srcs/sim_1/new/tb_UART.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
